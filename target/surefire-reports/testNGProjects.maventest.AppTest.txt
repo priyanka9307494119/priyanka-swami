@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: testNGProjects.maventest.AppTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 1.92 s <<< FAILURE! - in testNGProjects.maventest.AppTest
+LaunchApp(testNGProjects.maventest.AppTest)  Time elapsed: 1.548 s  <<< FAILURE!
+io.github.bonigarcia.wdm.config.WebDriverManagerException: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: chromedriver.storage.googleapis.com
+Caused by: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: chromedriver.storage.googleapis.com
+Caused by: java.net.UnknownHostException: chromedriver.storage.googleapis.com
+
